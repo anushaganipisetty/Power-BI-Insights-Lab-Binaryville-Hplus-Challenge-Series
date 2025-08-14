@@ -1,0 +1,2 @@
+# Power-BI-Insights-Lab-Binaryville-Hplus-Challenge-Series
+This project features a series of Power BI dashboards developed using datasets from Binaryville and Hplus, designed to tackle real-world business intelligence challenges. The dashboards focus on: - 📊 Operational Metrics Visualization - 🔍 Trend Analysis &amp; Forecasting - ⚙️ Workflow Optimization Insights - 📈 Interactive Filtering &amp; Drill-Downs Each
